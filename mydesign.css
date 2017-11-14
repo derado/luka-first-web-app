@@ -1,0 +1,43 @@
+body {
+  background-color: blue;
+}
+
+p {
+  color: red;
+}
+
+h1 {
+  color: red;
+}
+
+a {
+  margin-top: 10px;
+  float: left;
+  display: block;
+  clear: both;
+  color: silver;
+ 
+}
+
+a:link {
+  text-decoration: none;
+  
+}
+
+a:hover {
+  text-decoration: underline;
+  
+}
+
+
+img {
+  margin-top: 10px;
+  float: left;
+  display: block;
+  clear: left;
+}
+
+.my-class {
+  font-weight: bold;
+  text-transform: uppercase;
+}
